@@ -15,6 +15,7 @@ float celsius_to_fahrenheit(float c){
 
 /*----------- SOLUTION TO HERE -------*/
 
+
 // This is where you add the two functions
 
 int main() {
